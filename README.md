@@ -125,24 +125,6 @@ test/domain/TareaTest.java
 
 ---
 
-## ▶️ Instrucciones de ejecución
-
-### 🔹 Ejecutar la aplicación
-
-1. Abrir el proyecto en Visual Studio Code
-2. Abrir el archivo `Main.java`
-3. Clic en Run
-
----
-
-### 🔹 Ejecutar pruebas
-
-1. Instalar extensiones de Java en VS Code
-2. Abrir `TareaTest.java`
-3. Ejecutar los tests con Run Test
-
----
-
 ## 🧭 Ejemplo de uso
 
 Al ejecutar el sistema se muestra:
