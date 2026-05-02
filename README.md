@@ -164,4 +164,5 @@ Este proyecto demuestra cómo separar el dominio de la infraestructura, logrando
 
 ## 👨‍💻 Autor
 
-Proyecto desarrollado con fines académicos.
+Diego Alejandro Rodriguez Suarez
+
